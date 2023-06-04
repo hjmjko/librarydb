@@ -1,3 +1,3 @@
 This project was made by 
-Antigoni Maria Karanika 
+Antigoni Maria Karanika and
 Nikolas Bothos Vouterakos
